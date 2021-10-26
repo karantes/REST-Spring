@@ -8,6 +8,7 @@ class RestSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
